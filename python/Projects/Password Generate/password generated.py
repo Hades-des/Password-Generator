@@ -1,4 +1,3 @@
-
 import string
 import secrets
 from typing import Final

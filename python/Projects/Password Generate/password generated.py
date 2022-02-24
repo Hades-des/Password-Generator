@@ -1,7 +1,5 @@
 import string
 import secrets
-from typing import Final
-
 try:
     symblos = int(input("Введите кол-во символов в пароле:"))
     symbolsNum = int(symblos)
